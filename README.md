@@ -1,5 +1,5 @@
 # awesome-team-repo
 
-Cody Murdock- I like blueberries
+Cody Murdock- I like blueberries!
 
 Levi Larson - I am from Georgia
